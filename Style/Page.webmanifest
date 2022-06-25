@@ -6,40 +6,40 @@
     "theme_color" : "#4564a0" ,
     "display" : "standalone" ,
     
-    "start_url" : "/x/" ,
+    "start_url" : "/" ,
     "Scope" : "/" ,
     
     "icons" : [{
         "type" : "image/png" ,
         "sizes" : "72x72" ,
-        "src" : "Style/Icon/72.png"
+        "src" : "/Style/Icon/72.png"
     },{
         "type" : "image/png" ,
         "sizes" : "96x96" ,
-        "src" : "Style/Icon/96.png" ,
+        "src" : "/Style/Icon/96.png" ,
     },{
         "type" : "image/png" ,
         "sizes" : "128x128" ,
-        "src" : "Style/Icon/128.png"
+        "src" : "/Style/Icon/128.png"
     },{
         "type" : "image/png" ,
         "sizes" : "144x144" ,
-        "src" : "Style/Icon/144.png"
+        "src" : "/Style/Icon/144.png"
     },{
         "type" : "image/png" ,
         "sizes" : "152x152" ,
-        "src" : "Style/Icon/152.png"
+        "src" : "/Style/Icon/152.png"
     },{
         "type" : "image/png" ,
         "sizes" : "192x192" ,
-        "src" : "Style/Icon/192.png"
+        "src" : "/Style/Icon/192.png"
     },{
         "type" : "image/png" ,
         "sizes" : "384x384" ,
-        "src" : "Style/Icon/384.png"
+        "src" : "/Style/Icon/384.png"
     },{
         "type" : "image/png" ,
         "sizes" : "512x512" ,
-        "src" : "Style/Icon/512.png"
+        "src" : "/Style/Icon/512.png"
     }]
 }
