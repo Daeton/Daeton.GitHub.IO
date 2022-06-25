@@ -31,7 +31,20 @@
 
 .flex-column {
     display : flex ;
-    flex : column ;
+    flex-direction : column ;
+}
+
+.flex-row {
+    display : flex ;
+    flex-direction : row ;
+}
+
+.item-horz {
+    align-items : center ;
+}
+
+.item-vert {
+    justify-content : center ;
 }
 
 .bold {
