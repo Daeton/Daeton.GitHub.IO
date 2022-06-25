@@ -16,7 +16,7 @@
     },{
         "type" : "image/png" ,
         "sizes" : "96x96" ,
-        "src" : "/Style/Icon/96.png" ,
+        "src" : "/Style/Icon/96.png"
     },{
         "type" : "image/png" ,
         "sizes" : "128x128" ,
